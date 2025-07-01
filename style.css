@@ -1,0 +1,41 @@
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(191, 202, 211);
+
+}
+h1{
+    color: rgba(0, 102, 255, 0.979);
+}
+form{
+    background-color: aliceblue;
+    text-align: center;
+    max-width: 350px;
+    margin: auto; 
+    padding: 25px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.322);
+} 
+#submit{
+    border: none;
+    background-color: rgb(212, 81, 48);
+    color: aliceblue;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: larger;
+}
+#submit:hover{
+    border: none;
+    background-color: rgb(252, 54, 5);
+    color: rgb(255, 255, 255);
+ 
+}
+input{
+    text-align: center;
+    margin-bottom: 20px;
+    outline: none;
+    padding: 10px;
+    font-size: larger;
+}
